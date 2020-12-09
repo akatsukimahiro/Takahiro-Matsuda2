@@ -1,14 +1,11 @@
 body{
     margin: 0%;
-    font-family: 'Caveat', cursive;
-    
+    font-family: 'Caveat', cursive; 
 }
 header{
     height: 50px;
-    background-color: white;
-    
+    background-color: white;    
 }
-
 .header-name{
     font-size: 50px;
     padding:0 20px;
@@ -25,7 +22,6 @@ padding:0 20px;
 text-decoration: none;
 color: black;
 font-size: 30px;
-
 }
 .header-right a:hover{
     opacity: 0.7;
@@ -33,11 +29,7 @@ font-size: 30px;
 .main-wrapper{
      
      background-image: url(https://images.unsplash.com/photo-1515411151407-107ae8bab7e4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80);
-     background-size:cover;
-     
-     
-    
-   
+     background-size:cover;  
 }
 .contact-form{
     color: white;
@@ -46,9 +38,7 @@ font-size: 30px;
     text-align: center;
     padding-top:200px;
     padding-bottom:200px;
-    width: 50%;
-    
-    
+    width: 50%;   
 }
 .form-title{
     font-size: 50px;
